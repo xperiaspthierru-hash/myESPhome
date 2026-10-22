@@ -1,5 +1,5 @@
 external_components:
-  - source: "github://SeByDocKy/myESPhome/"
+  - source: "github://xperiaspthierru-hash/myESPhome/"
     components: [dualpid]
     refresh: 0s
     
