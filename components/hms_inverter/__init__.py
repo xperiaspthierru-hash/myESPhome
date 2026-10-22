@@ -204,9 +204,9 @@ async def to_code(config):
     # cg.add_library("Hoymiles", None, "https://github.com/SeByDocKy/Hoymiles") ## new version with SPImanager ####
 
     cg.add_library("SPI", None)
-    cg.add_library("CMT2300A", None, "https://github.com/SeByDocKy/esphome-CMT2300A") # -> without SPImanager framework...
-    cg.add_library("Hoymiles-lib", None, "https://github.com/SeByDocKy/Hoymiles-lib")
-    cg.add_library("Hoymiles", None, "https://github.com/SeByDocKy/esphome-hoymiles-main") ## former version without SPImanager ####
+    cg.add_library("CMT2300A", None, "https://github.com/xperiaspthierru-hash/esphome-CMT2300A") # -> without SPImanager framework...
+    cg.add_library("Hoymiles-lib", None, "https://github.com/xperiaspthierru-hash/Hoymiles-lib")
+    cg.add_library("Hoymiles", None, "https://github.com/xperiaspthierru-hash/esphome-hoymiles-main") ## former version without SPImanager ####
 
     ############# With old lib, prior to OpenDTU v24.9.26 #############
     
